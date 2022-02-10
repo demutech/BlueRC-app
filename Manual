@@ -1,0 +1,20 @@
+1. Download BlueRC App V1.0, and install it on your android mobile phone.
+
+2. Power on your ESP32 BlueRC hardware.
+
+3. Launch the app, if your bluetooth is not opened, app will ask you for permission, click on accept.
+
+4. Click on the 3-point symbol in the upper-right corner, then click on the menu "Connetct BT Device". 
+   In the very first time you have to pair your ESP32 BlueRC Shield, click on "Scan for devices", 
+   then wait until "ESP32BlueRC-Shield" appears under "Other Available Devices", click on it, then confirm pairing. 
+   In the line of Status should show now "connected:ESP32BlueRC-Shield". Now you can begin learning the buttons.
+   
+5. Learning: Longclick button "LEARN", system message shows "Learning beginns, please press a button within 10 seconds...",
+   then press the button which you want to learn. After that, press the same button on your TV remote control. 
+   The ir code of this button will automatically stored in the hardware. Immediately you can use this button.
+   
+6. Repeat step 5 for other buttons.
+
+7. By ernewed program start, click only on "ESP32BlueRC-Shield" under "Paired Devices", Scan is no more necessary.
+
+8. That's it. Congratulations and enjoy your BlueRC!
