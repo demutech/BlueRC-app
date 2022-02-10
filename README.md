@@ -10,6 +10,8 @@ Operation Manual
 
 2. Power on your ESP32 BlueRC hardware.
 
+    ![Sensor-shield-with-ir-transmitter-module-small](https://user-images.githubusercontent.com/13086712/153450858-13bf97f1-aab4-4c2b-aac0-fc99e75df266.jpg)
+
 3. Launch the app, if your bluetooth is not opened, app will ask you for permission, click on accept.
     ![App-ui-small](https://user-images.githubusercontent.com/13086712/153447898-6402ca69-1594-4861-ae32-7a877686b7f4.jpg)
     ![Bluetooth-permission-small](https://user-images.githubusercontent.com/13086712/153448866-d77c2f2c-8dd6-422a-b3ac-0093ebc0a420.jpg)
