@@ -5,7 +5,7 @@ It works together with BlueRC Shield for ESP32 D1 R32 or Arduino Uno and ESP32Bl
 Software requirements smartphone > Android 3.2. <br>
 Hardware requirements see repository ESP32-BlueRC-project.
 
-Operation Manual 
+# Operation Manual 
 1. Download BlueRC App V1.0, and install it on your android mobile phone.
 
 2. Power on your ESP32 BlueRC hardware.
@@ -30,6 +30,6 @@ Operation Manual
    
 6. Repeat step 5 for other buttons.
 
-7. By renewed program start, just click on "ESP32BlueRC-Shield" under "Paired Devices", Scan is no more necessary.
+7. Once the hardware is paired, you just need to click on "ESP32BlueRC-Shield" under "Paired Devices", Scan is not necessary.
 
-8. That's it. Congratulations and enjoy your BlueRC!
+That's it. Congratulations and enjoy your BlueRC!
