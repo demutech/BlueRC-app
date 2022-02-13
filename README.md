@@ -6,7 +6,7 @@ Software requirements smartphone > Android 3.2. <br>
 Hardware requirements see repository ESP32-BlueRC-project.
 
 # Operation Manual 
-1. Download BlueRC App V1.0, and install it on your android mobile phone.
+1. Download BlueRC-App-V1.0.apk, and install it on your android mobile phone.
 
 2. Power on your ESP32 BlueRC hardware.
 
