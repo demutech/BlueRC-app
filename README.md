@@ -32,4 +32,6 @@ Hardware requirements see repository ESP32-BlueRC-project.
 
 7. Once the hardware is paired, you just need to click on "ESP32BlueRC-Shield" under "Paired Devices", Scan is not necessary.
 
-That's it. Congratulations and enjoy your BlueRC!
+Congratulations and enjoy your BlueRC!
+
+https://youtu.be/Kb-TdF84Oz4
